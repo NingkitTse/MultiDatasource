@@ -1,7 +1,6 @@
 # MultiDatasource Application Demo
 
-
-# ÇëÇóÊ¾Àý
+# æµ‹è¯•ç»“æžœ
 - http://127.0.0.1:8088/multidb/db2/test-ora/infos
 ```
 {
